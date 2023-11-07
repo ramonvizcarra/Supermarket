@@ -32,3 +32,4 @@ while index < departments_length:
     print((departments[index]))
     index += 1
 print("Please enter the department you'd like to start: ")
+
